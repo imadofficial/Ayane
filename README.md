@@ -6,5 +6,5 @@ If you are looking to use Ayane in your Discord server, you can use the stable o
 
 **Various branches:**
 
-| [Stable](https://discord.com/api/oauth2/authorize?client_id=646728960381812736&permissions=8&scope=bot) | [Release Preview](#) | [Beta](#) | [Canary](#)
+| [Stable](https://discord.com/api/oauth2/authorize?client_id=646728960381812736&permissions=8&scope=bot) | [Release Preview](https://discord.com/api/oauth2/authorize?client_id=698499189591769158&permissions=8&scope=bot) | [Beta](#) | [Canary](#)
 | ------------- | ------------- | ------------- | ------------- |
