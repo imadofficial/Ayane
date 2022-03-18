@@ -1,0 +1,69 @@
+{
+    "Metadata":{
+        "Language": "English",
+        "LocaleCode": "en_US",
+        "RTL": false,
+        "BuildRelease": "April 1st, 2022",
+        "Translators": "511212466487689216"
+    },
+    "LanguageData":{
+        "CommonPhrases":{
+            "Usage": "How to use this command:"
+        },
+        "about":{
+            "Version": "Version",
+            "Properties": "Properties",
+            "Branch": "Branch",
+            "Milestone Version": "Milestone version",
+            "Release Date": "Release Date",
+            "Language": "Language tied to user",
+            "Python library used": "Library used",
+            "LanguageFrameworkVersion": "Lang Framework version"
+        },
+        "Help":{
+            "Title": "Ayane's available commands",
+            "Warning": "Due to recent events, some commands have been moved over to Slash. However some will stick around until i find a better way to implement them.",
+
+            "SlashCategory": "Slash Commands",
+            "ModerationCategory": "Moderation",
+            "TechCategory": "Tech",
+
+            "Coming soon": "Coming soon"
+        },
+        "Ban":{
+            "InitError": "Ban not initialized",
+            "Invalid Member": "I literally checked every user but none of them match your description.",
+            "Unentered User": "The user you want to ban was not given.",
+            "BanAskPre": "Are you sure you want to ban ",
+            "BanAskPost": "? Here is the summary.",
+
+            "ExampleReason": "Targetted harassment",
+            "Reason": "Reason",
+            "NoReason": "No reason provided",
+            "HowLong": "How long will person will be banned for?",
+            "indefinitely": "Indefinitely",
+
+            "QuoteStart": "'",
+            "QuoteEnd": "'",
+
+            "Inside_Title": "You're about to ban someone inside your server!",
+
+            "ButtonConfirm": "Ban!",
+            "ButtonCancel": "Cancel",
+
+            "CanceledTitle": "Banning operation was canceled.",
+            "ExtraCancelPre": "",
+            "ExtraCancelPost": "was not banned and instead was free to go.",
+
+            "ConfirmedTitlePre": "",
+            "ConfirmedTitlePost": "was successfully banned.",
+            "ConfirmedTitle": "A member was successfully terminated from the server.",
+
+            "AccessDenied": "You aren't allowed to click those buttons.",
+            "Timeout": "この禁止要請はタイムアウトしました。"
+        },
+        "CPULookup":{
+            "IntelTitle": "How to search for Intel CPU's."
+        }
+    }
+}

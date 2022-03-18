@@ -1,0 +1,69 @@
+{
+    "Metadata":{
+        "Language": "日本語",
+        "LocaleCode": "jp",
+        "RTL": false,
+        "BuildRelease": "2022年4月1日",
+        "Translators": ""
+    },
+    "LanguageData":{
+        "CommonPhrases":{
+            "Usage": "このコマンドの使用方法："
+        },
+        "about":{
+            "Version": "バージョン",
+            "Properties": "物件紹介",
+            "Branch": "支店",
+            "Milestone Version": "マイルストーン",
+            "Release Date": "マイルストーン",
+            "Language": "あなたと結びつく言語",
+            "Python library used": "使用したPythonライブラリ",
+            "LanguageFrameworkVersion": "言語フレームワークのバージョン"
+        },
+        "Help":{
+            "Title": "あやねるの使えるコマンド。",
+            "Warning": "最近の出来事から、いくつかのコマンドはSlashに移行されました。しかし、いくつかのコマンドは、私がより良い実装方法を見つけるまで、そのまま残ります。",
+
+            "SlashCategory": "スラッシュ",
+            "ModerationCategory": "中庸",
+            "TechCategory": "技術",
+
+            "Coming soon": "近日公開予定"
+        },
+        "Ban":{
+            "InitError": "バン未初期化",
+            "Invalid Member": "あちこち探しました。しかし、ユーザーを見つけることができませんでした。",
+            "Unentered User": "禁止したいユーザーが指定されていません。",
+            "BanAskPre": "本当に",
+            "BanAskPost": "を禁止するんですか？ 以下はその概要です。",
+
+            "ExampleReason": "標的型ハラスメント",
+            "Reason": "理由",
+            "NoReason": "理由なし",
+            "HowLong": "禁止される期間？",
+            "indefinitely": "無期限",
+
+            "QuoteStart": "「",
+            "QuoteEnd": "」",
+
+            "Inside_Title": "自分のサーバー内の誰かをBANしようとしている。",
+
+            "ButtonConfirm": "禁止",
+            "ButtonCancel": "キャンセル",
+
+            "CanceledTitle": "禁止動作は解除されました。",
+            "ExtraCancelPre": "",
+            "ExtraCancelPost": "は禁止されておらず、現在は自由である。",
+
+            "ConfirmedTitlePre": "",
+            "ConfirmedTitlePost": "は禁止に成功した。",
+            "ConfirmedTitle": "サーバーからメンバーが正常に終了しました。 ",
+
+            "AccessDenied": "そのボタンをクリックすることは許されていません。",
+            "Timeout": "この禁止要請はタイムアウトしました。"
+        },
+        "CPULookup":{
+            "IntelTitle": "インテルCPUの検索方法について。"
+        }
+    }
+}
